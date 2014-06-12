@@ -1,1 +1,5 @@
+<?
+echo "Outro teste";
+?>
 <?="Teste"?>
+

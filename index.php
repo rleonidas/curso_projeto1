@@ -1,5 +1,4 @@
 <?
-//phpinfo();
-echo "Olá Mundo!";
+phpinfo();
 ?>
 
