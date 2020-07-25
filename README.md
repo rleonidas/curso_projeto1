@@ -1,7 +1,5 @@
-CURSO CODE EDUCATION
-=========
 
-##### Instruções descritos no README de como realizar um push
+##### InstruÃ§Ãµes descritos no README de como realizar um push
 
 ```sh
 git add README.md
